@@ -1,0 +1,48 @@
+.styler {
+    padding: 30px;
+    border: 1px solid #eeffff;
+    width: auto;
+}
+
+.font-bold {
+    font-weight: Bold;
+}
+
+.font-italics {
+    font-style: italic;
+}
+
+.color-red {
+    color: green !important;
+}
+
+.color-blue {
+    color: orange !important;
+}
+
+.redBtn {
+    color: green;
+    background-color: green;
+}
+
+.blueBtn {
+    color: orange;
+    background-color: orange;
+}
+
+.selected {
+    border: 2px solid blue !important;
+}
+
+button {
+    margin: 0 10px 10px 0;
+    padding: 20px;
+}
+
+.cells {
+    cursor: pointer;
+}
+
+.cells:hover {
+    background: red;
+}
